@@ -6,8 +6,8 @@ function Vector2(x, y) {
     this.y = (y === undefined) ? 0 : y;
 }
 exports.Vector2 = Vector2;
-const version = "0.2.0";
-const build = "2022.03-10";
+const version = "0.2.1";
+const build = "2022.03-11";
 function start() {
     console.log("-----------------------------------------------------------");
     console.log("          Game.js v" + version + " - Build " + build);

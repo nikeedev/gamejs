@@ -4,8 +4,8 @@ function Vector2(x:number, y:number) {
 }
 
 
-const version = "0.2.0";
-const build = "2022.03-10";
+const version = "0.2.1";
+const build = "2022.03-11";
 
 function start() {
     console.log("-----------------------------------------------------------");
