@@ -1,4 +1,4 @@
-# JSGF: Javascript Game Framework
+# 
 
 ## **Under Development**
 
