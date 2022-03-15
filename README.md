@@ -1,4 +1,4 @@
-# 
+# Game.js: Game Library, full of game development modules!
 
 ## **Under Development**
 
