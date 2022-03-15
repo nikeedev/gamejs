@@ -1,11 +1,11 @@
-# Gamedev.js: Game Library, full of game development modules and functions!
+# Game.js: Game Library, full of game development modules and functions!
 
 ## **Still Under Development**
 
 
-**[`npm` package website](https://www.npmjs.com/package/gamedevjs)**
+**[`npm` package website](https://www.npmjs.com/package/@nikeedev_packages/gamejs)**
 
-![npm](https://img.shields.io/npm/v/game.js?color=Green&label=Current%20package%20version&style=flat-square)
+![npm](https://img.shields.io/npm/@nikeedev_packages/gamejs?color=Green&label=Current%20package%20version&style=flat-square)
 
 
 ### Features

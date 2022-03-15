@@ -1,25 +1,25 @@
 {
-  "name": "arcadejs",
+  "name": "@nikeedev_packages/gamejs",
   "version": "0.2.0",
-  "description": "arcade.js: Game Library, full of game development modules and functions!",
-  "main": "arcade.js",
+  "description": "Game.js: Game Library, full of game development modules and functions!",
+  "main": "game.js",
   "scripts": {
-    "test": "tsc && node ./arcade.js",
-    "publish": "tsc && git add * && git commit -m \"Updates for arcade.js!\" && git pull && git push"
+    "test": "tsc && node ./game.js",
+    "publish": "tsc && git add * && git commit -m \"Updates for Game.js!\" && git pull && git push"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikeedev/arcadejs.git"
+    "url": "git+https://github.com/nikeedev/gamejs.git"
   },
   "keywords": [
-    "game"
+    "game", "gamedev", "canvas", "game modules"
   ],
   "author": "nikeedev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nikeedev/arcadejs/issues"
+    "url": "https://github.com/nikeedev/gamejs/issues"
   },
-  "homepage": "https://github.com/nikeedev/arcadejs#readme",
+  "homepage": "https://github.com/nikeedev/gamejs#readme",
   "devDependencies": {
     "@types/node": "^17.0.21"
   }

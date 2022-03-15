@@ -5,11 +5,11 @@ function Vector2(x:number, y:number) {
 
 
 const version = "0.2.0";
-const build = "2022.03-7";
+const build = "2022.03-10";
 
 function start() {
     console.log("-----------------------------------------------------------");
-    console.log("           Gamedev.js v"+version+" - Build "+ build);
+    console.log("          Game.js v"+version+" - Build "+ build);
     console.log("-----------------------------------------------------------");
 }
 
