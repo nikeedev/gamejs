@@ -1,15 +1,15 @@
 {
-  "name": "jsgf",
-  "version": "0.1.4",
-  "description": "Javascript Game Framework",
-  "main": "jsgf.js",
+  "name": "arcadejs",
+  "version": "0.2.0",
+  "description": "arcade.js: Game Library, full of game development modules and functions!",
+  "main": "arcade.js",
   "scripts": {
-    "test": "tsc && node ./jsgf.js",
-    "publish": "tsc && git add * && git commit -m \"Updates for JSGF!\" && git pull && git push"
+    "test": "tsc && node ./arcade.js",
+    "publish": "tsc && git add * && git commit -m \"Updates for arcade.js!\" && git pull && git push"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nikeedev/jsgf.git"
+    "url": "git+https://github.com/nikeedev/arcadejs.git"
   },
   "keywords": [
     "game"
@@ -17,9 +17,9 @@
   "author": "nikeedev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nikeedev/jsgf/issues"
+    "url": "https://github.com/nikeedev/arcadejs/issues"
   },
-  "homepage": "https://github.com/nikeedev/jsgf#readme",
+  "homepage": "https://github.com/nikeedev/arcadejs#readme",
   "devDependencies": {
     "@types/node": "^17.0.21"
   }

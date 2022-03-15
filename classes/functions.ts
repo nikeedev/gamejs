@@ -4,14 +4,14 @@ function Vector2(x:number, y:number) {
 }
 
 
-const version = "0.1.4";
-const build = "2022.03-4";
+const version = "0.2.0";
+const build = "2022.03-7";
 
 function start() {
     console.log("-----------------------------------------------------------");
-    console.log(" Javascript Game Framework v"+version+" - Build "+ build);
+    console.log("           Gamedev.js v"+version+" - Build "+ build);
     console.log("-----------------------------------------------------------");
 }
 
 
-export { Vector2, version, build, start };
+export { Vector2, start };
