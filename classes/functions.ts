@@ -1,6 +1,11 @@
-const version = "0.1.4";
+function Vector2(x:number, y:number) {
+	this.x = (x === undefined) ? 0 : x;
+	this.y = (y === undefined) ? 0 : y;
+}
 
-const build = "2022.03-4";
+
+const version = "0.1.3";
+const build = "2022.03-3";
 
 function start() {
     console.log("-----------------------------------------------------------");
@@ -8,4 +13,5 @@ function start() {
     console.log("-----------------------------------------------------------");
 }
 
-start();
+
+export { Vector2, version, build, start };
