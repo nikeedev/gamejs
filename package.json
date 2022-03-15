@@ -1,0 +1,25 @@
+{
+  "name": "jsgf",
+  "version": "0.1.0",
+  "description": "Javascript Game Framework",
+  "main": "main.js",
+  "scripts": {
+    "test": "tsc main.ts && node ./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikeedev/jsgf.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "nikeedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikeedev/jsgf/issues"
+  },
+  "homepage": "https://github.com/nikeedev/jsgf#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
