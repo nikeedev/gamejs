@@ -6,9 +6,9 @@ function Vector2(x, y) {
     this.y = (y === undefined) ? 0 : y;
 }
 exports.Vector2 = Vector2;
-const version = "0.1.3";
+const version = "0.1.4";
 exports.version = version;
-const build = "2022.03-3";
+const build = "2022.03-4";
 exports.build = build;
 function start() {
     console.log("-----------------------------------------------------------");
