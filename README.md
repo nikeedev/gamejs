@@ -1,9 +1,9 @@
-# Game.js: Game Library, full of game development modules!
+# Arcade.js: Game Library, full of game development modules!
 
 ## **Under Development**
 
 
-**[`npm` package website](https://www.npmjs.com/package/game.js)**
+**[`npm` package website](https://www.npmjs.com/package/arcadejs)**
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/nikeedev/game.js?color=Green&label=Current%20package%20version&style=flat-square)
 
