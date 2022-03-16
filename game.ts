@@ -1,4 +1,10 @@
-import * as functions from './classes/functions';
+const functions = require('./modules/functions');
 
-functions.start();
 
+if (require.main != module) {
+    console.log("\n\n-----------------------------------------------------------");
+    console.log("          Game.js v" + require('./package.json').version+ " - Build " + require('./package.json').build);
+    console.log("-----------------------------------------------------------");
+}
+
+export { functions }

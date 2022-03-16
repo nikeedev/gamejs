@@ -1,5 +1,5 @@
 {
-  "include": ["game.ts", "./classes/*.ts"],
+  "include": ["game.ts", "modules/*.ts"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
 
