@@ -12,7 +12,7 @@
     "url": "git+https://github.com/nikeedev/gamejs.git"
   },
   "keywords": [
-    "game", "gamedev", "canvas", "game modules"
+    "game", "gamedev", "canvas", "game modules", "game.js", "nikeedev"
   ],
   "author": "nikeedev",
   "license": "MIT",
