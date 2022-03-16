@@ -3,9 +3,9 @@
 ## **Still Under Development**
 
 
-**[`npm` package website](https://www.npmjs.com/package/@nikeedev_packages/gamejs)**
+**[`npm` package website](https://www.npmjs.com/package/@nikee_dev/gamejs)**
 
-![npm](https://img.shields.io/npm/v/@nikeedev_packages/gamejs?color=Green&label=Current%20package%20version&style=flat-square)
+![npm](https://img.shields.io/npm/v/@nikee_dev/gamejs?color=Green&label=Current%20package%20version&style=flat-square)
 
 
 ### Features

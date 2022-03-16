@@ -1,5 +1,5 @@
 {
-  "name": "@nikeedev_packages/gamejs",
+  "name": "@nikee_dev/gamejs",
   "version": "0.2.1",
   "description": "Game.js: Game Library, full of game development modules and functions!",
   "main": "game.js",
