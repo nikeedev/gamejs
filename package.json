@@ -1,6 +1,6 @@
 {
   "name": "@nikee_dev/gamejs",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Game.js: Game Library, full of game development modules and functions!",
   "main": "game.js",
   "scripts": {

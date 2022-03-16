@@ -4,7 +4,7 @@ function Vector2(x:number, y:number) {
 }
 
 
-const version = "0.2.1";
+const version = "0.2.2";
 const build = "2022.03-11";
 
 function start() {
