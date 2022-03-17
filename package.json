@@ -1,7 +1,7 @@
 {
   "name": "@nikee_dev/gamejs",
-  "version": "0.3.12",
-  "build": "2022.03-14",
+  "version": "0.3.13",
+  "build": "2022.03-17",
   "description": "Game.js: Game Library, full of game development modules and functions!",
   "main": "game.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "url": "https://github.com/nikeedev/gamejs/issues"
   },
   "homepage": "https://github.com/nikeedev/gamejs#readme",
-  "devDependencies": {
+  "dependencies": {
     "@types/node": "^17.0.21",
     "colors": "^1.4.0"
   }
