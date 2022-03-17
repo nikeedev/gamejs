@@ -1,7 +1,7 @@
 {
   "name": "@nikee_dev/gamejs",
-  "version": "0.3.1",
-  "build": "2022.03-13",
+  "version": "0.3.12",
+  "build": "2022.03-14",
   "description": "Game.js: Game Library, full of game development modules and functions!",
   "main": "game.js",
   "scripts": {
@@ -13,7 +13,12 @@
     "url": "git+https://github.com/nikeedev/gamejs.git"
   },
   "keywords": [
-    "game", "gamedev", "canvas", "game modules", "game.js", "nikeedev"
+    "game",
+    "gamedev",
+    "canvas",
+    "game modules",
+    "game.js",
+    "nikeedev"
   ],
   "author": "nikeedev",
   "license": "MIT",
@@ -22,6 +27,7 @@
   },
   "homepage": "https://github.com/nikeedev/gamejs#readme",
   "devDependencies": {
-    "@types/node": "^17.0.21"
+    "@types/node": "^17.0.21",
+    "colors": "^1.4.0"
   }
 }
