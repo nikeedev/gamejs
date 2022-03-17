@@ -1,7 +1,7 @@
 {
   "name": "@nikee_dev/gamejs",
-  "version": "0.3.13",
-  "build": "2022.03-17",
+  "version": "0.3.14",
+  "build": "2022.03-18",
   "description": "Game.js: Game Library, full of game development modules and functions!",
   "main": "game.js",
   "scripts": {
