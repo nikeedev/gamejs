@@ -1,12 +1,12 @@
 {
   "name": "@nikee_dev/gamejs",
-  "version": "0.3.0",
-  "build": "2022.03-12",
+  "version": "0.3.1",
+  "build": "2022.03-13",
   "description": "Game.js: Game Library, full of game development modules and functions!",
   "main": "game.js",
   "scripts": {
     "build": "tsc && echo Build and compilation succesful!",
-    "publish": "tsc && git add * && git commit -m \"Updates for Game.js!\" && git pull && git push"
+    "publish": "tsc && echo Build and compilation succesful! && git add * && git commit -m \"Updates for Game.js!\" && git pull && git push"
   },
   "repository": {
     "type": "git",
